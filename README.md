@@ -19,6 +19,9 @@ some projects that you have worked on and add links to the code (in
 GitHub).
 ○ Add links to any blog posts or articles that you have written.
 ● Use CSS to style and position the elements on your webpage as attractively
+#You must be creative
+#Make sure that your webite is user friendly
+#The website must be easy to understand also
 as possible. Feel free to use style libraries like Bootstrap.
 ● Create a new repository for this task called MyCV.
 ● Following the steps in Compulsory Task 1, deploy your webpage using
